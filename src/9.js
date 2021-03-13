@@ -4,6 +4,7 @@
  * == --> Bằng
  * === --> Bằng theo cả về giá trị và kiểu dữ liệu
  * != --> Không bằng
+ * !== --> Không bằng theo cả về giá trị và kiểu dữ liệu
  * > --> Lớn hơn
  * < --> Nhỏ hơn
  * >= --> Lớn hơn hoặc bằng
