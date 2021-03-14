@@ -1,0 +1,18 @@
+//TODO Câu lệnh rẽ nhanh - Switch
+
+var date = 3;
+
+switch (date) {
+	case 2:
+		console.log("Hôm nay là thứ 2");
+		break;
+	case 3:
+		console.log("Hôm nay là thứ 3");
+	// break;
+	case 4:
+		console.log("Hôm nay là thứ 4");
+	// break;
+	case 5:
+		console.log("Hôm nay là thứ 5");
+		break;
+}
